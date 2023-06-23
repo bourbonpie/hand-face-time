@@ -2,4 +2,5 @@ This project was made for fun. I utilized the OpenCV library along with the Medi
 - "L"
 - "Thumbs Up"
 - "Thumbs Down"
+
 Perhaps, I will work on making it detect more gestures. 
